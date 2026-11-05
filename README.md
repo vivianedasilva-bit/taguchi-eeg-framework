@@ -42,4 +42,4 @@ Full environment used for the published results: `requirements_lock.txt`.
 Numba is optional (identical results, ~3× faster sample entropy).
 
 ## Licence
-To be defined by the authors.
+MIT licence (see LICENSE). If you use this code, please cite the article above.
